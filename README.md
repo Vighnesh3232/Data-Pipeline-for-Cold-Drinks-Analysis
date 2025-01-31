@@ -4,6 +4,7 @@
 This repository contains an **ETL pipeline** built using **Apache Airflow** and executed within **WSL (Windows Subsystem for Linux)**. The pipeline is designed to extract, transform, and analyze **Cold Drinks Market Data**, providing insights into consumer behavior and market trends.
 
 ## 🚀 Project Workflow
+![Workflow Image](https://github.com/Vighnesh3232/Data-Pipeline-for-Cold-Drinks-Analysis/blob/main/DE_Workflow_Diagram.drawio.png)
 1. **Data Extraction**: Loads raw data from multiple CSV files in a directory.
 2. **Data Transformation**: Performs cleaning, data type conversion, and various analyses.
 3. **Data Loading**: Stores processed results into structured files.
